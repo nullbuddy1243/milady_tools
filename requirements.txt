@@ -1,5 +1,15 @@
 certifi==2021.10.8
 charset-normalizer==2.0.12
+hypergan==1.0.6
 idna==3.3
 requests==2.27.1
 urllib3==1.26.9
+hyperchamber==0.3.1
+inflection
+numpy
+pillow
+psutil
+pyparsing
+torch
+torchvision
+semantic_version

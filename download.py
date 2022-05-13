@@ -5,7 +5,7 @@ import requests, time, json
 base_url = 'https://miladymaker.net/milady/' # tokenId
 token_uri = 'https://www.miladymaker.net/milady/json/' # tokenId
 
-for tokenId in range(0,10000): 
+for tokenId in range(2254,10000): 
     img_url = "{}{}.png".format(base_url, tokenId)
     token_url = "{}{}".format(token_uri, tokenId)
 
